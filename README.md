@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/--%3E%20console.log(%22%F0%9F%91%8B%20Hello%2C%20I'm%20Diego%22)%3B-2ecc71?style=flat-square&labelColor=1e1e1e&logo=javascript&logoColor=F7DF1E" alt="Banner de Código" height="60" />
 </p>
 
-👋 Hola, soy Diego, un Desarrollador FullStack y fundador de **Agrosuper**. Me especializo en crear soluciones digitales escalables, desde aplicaciones móviles para finanzas personales hasta sistemas industriales de visualización de datos en tiempo real. Disfruto enfrentar desafíos que me hagan mejorar mis habilidades y conocimientos.
+👋 Hola, soy Diego, un Desarrollador FullStack. Me especializo en crear soluciones digitales escalables, desde aplicaciones móviles para finanzas personales hasta sistemas industriales de visualización de datos en tiempo real. Disfruto enfrentar desafíos que me hagan mejorar mis habilidades y conocimientos.
 
 <p align="center">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
