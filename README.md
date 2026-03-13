@@ -1,50 +1,64 @@
-Diego Rojas
-FullStack Developer | Founder @ DR Stack 👨‍💻
+# Diego Rojas
 
-👋 Hola, soy Diego, Desarrollador FullStack y fundador de DR Stack. Me especializo en crear soluciones digitales escalables y eficientes, desde aplicaciones móviles para finanzas personales hasta sistemas industriales de visualización de datos en tiempo real. Me apasiona transformar problemas complejos en interfaces intuitivas y código mantenible.
+**FullStack Developer | Founder @ DR Stack** 👨‍💻
 
-🛠️ Habilidades Técnicas
+<br>
 
-Backend & Arquitectura
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=code&text=console.log('👋%20Hola!')&color=auto&height=150&fontSize=50" alt="Banner de Código" />
+</p>
 
-🌐 Stack Principal: Node.js + TypeScript (Express / NestJS).
+👋 Hola, soy Diego, un Desarrollador FullStack y fundador de **DR Stack**. Me especializo en crear soluciones digitales escalables, desde aplicaciones móviles para finanzas personales hasta sistemas industriales de visualización de datos en tiempo real. Disfruto enfrentar desafíos que me hagan mejorar mis habilidades y conocimientos.
 
-🔗 APIs & ORMs: Diseño de APIs RESTful utilizando Prisma y Sequelize.
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black" />
+</p>
 
-⚡ Serverless: Experiencia con bases de datos modernas como Neon (PostgreSQL).
+---
 
-Frontend & Mobile
+## 🛠️ Habilidades Técnicas
 
-⚛️ React & Next.js: Creación de dashboards dinámicos y plataformas web de alto rendimiento.
+### **Backend**
+* 🌐 **Stack principal:** Node.js + Express/NestJS (JavaScript/TypeScript).
+* ⚡ **Data Access:** Manejo avanzado de ORMs como **Prisma** y Sequelize.
+* 🔗 Diseño e implementación de **APIs RESTful** con bases de datos modernas (**Neon**).
 
-📱 React Native + Expo: Desarrollo de aplicaciones móviles híbridas.
+### **Frontend & Mobile**
+* ⚛️ **Next.js & React.js** para desarrollo de interfaces dinámicas, optimizadas y SSR.
+* 📱 **React Native + Expo** para la creación de aplicaciones móviles de alto rendimiento.
+* 🎨 **UI/UX:** Diseño en Figma e implementación con **Material UI**.
 
-🎨 UI/UX: Implementación de interfaces profesionales con Material UI y diseño colaborativo en Figma.
+### **Bases de Datos**
+* 🗄️ Experiencia con **PostgreSQL** y MySQL (MariaDB).
+* 📊 Especialista en visualización de datos industriales y reportabilidad avanzada.
+* 🔍 Manejo de flujos de datos complejos y optimización de consultas SQL.
 
-Bases de Datos
+### **Otros Conocimientos**
+* 🖥️ **Industrial Tech:** Desarrollo de portales y scripts de optimización (Proyecto SID para Agrosuper).
+* ☁️ Interés en arquitectura Cloud y despliegues modernos.
+* 🧪 Pruebas unitarias y control de versiones con Git.
 
-🗄️ Relacionales: PostgreSQL y MySQL (MariaDB).
+---
 
-🔍 Optimización: Gestión de datos complejos y reportabilidad avanzada.
+## 📚 Proyectos & Experiencia
+* **DR Stack:** Fundador y Desarrollador Principal.
+* **SID (Sistema Integrado Digital):** Digitalización y visualización de datos industriales.
+* **Finance App:** Desarrollo de app híbrida para control de gastos personales.
 
-Otros Conocimientos
+## 📪 Contacto
+📩 **Correo:** [diego@drstack.cl]  
+💼 **LinkedIn:** [Tu link aquí]  
+🐙 **GitHub:** [Tu usuario aquí]
 
-📊 Visualización de Datos: Desarrollo de scripts y reportes para optimización de procesos industriales.
+---
 
-🚀 Tooling: Git, Vite, y testing básico.
-
-📚 Proyectos Recientes
-
-SID (Sistema Integrado Digital): Optimización de visualización de datos y reportabilidad para procesos industriales (Agrosuper).
-
-Gestión Financiera: App móvil para el control de gastos fijos y finanzas personales.
-
-📪 Contacto
-
-💼 Empresa: DR Stack
-
-🌍 Ubicación: Chile
-
-🐙 GitHub: [Tu link de GitHub]
-
-📩 LinkedIn: [Tu link de LinkedIn]
+### 🧠 Curiosidades
+🥊 Practicante de **MMA / BJJ** (2 veces por semana).  
+🏎️ Apasionado del **Sim Racing** y la **Fórmula 1**.  
+🐶 Dueño de un **American Bully**.
