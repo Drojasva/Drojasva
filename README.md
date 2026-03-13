@@ -52,9 +52,9 @@
 * **Finance App:** Desarrollo de app híbrida para control de gastos personales.
 
 ## 📪 Contacto
-📩 **Correo:** [diego@drstack.cl]  
-💼 **LinkedIn:** [Tu link aquí]  
-🐙 **GitHub:** [Tu usuario aquí]
+📩 **Correo:** [diegoandresrojasvargas@gmail.com]  
+💼 **LinkedIn:** [https://www.linkedin.com/in/diegorojasv-dev/]  
+🐙 **GitHub:** [https://github.com/Drojasva]
 
 ---
 
